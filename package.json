@@ -1,0 +1,19 @@
+{
+  "name": "rendering-multilple-html-pages",
+  "version": "1.0.0",
+  "description": "Rendering Multiple HTML Pages with Server",
+  "main": "ServerJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutiksanap44/Rendering-Multiple-HTML-Pages.git"
+  },
+  "author": "Rutik Devram Sanap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutiksanap44/Rendering-Multiple-HTML-Pages/issues"
+  },
+  "homepage": "https://github.com/rutiksanap44/Rendering-Multiple-HTML-Pages#readme"
+}
